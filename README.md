@@ -1,4 +1,4 @@
-# Banks loans data analysis
+# Banks loans approval insights - Data to decision making
 
 ## Project Overview
 - This data analysis project aims to provide insights into the important factors for a bank to give a loan and create a model to predict if a loan will be authorized or rejected.
@@ -17,6 +17,8 @@ For the preparation phase, the following was done:
 2. Handling missing values
 3. Treatment of outliers
 
+## Unique Value Exploration
+
 ## Exploratory Data Analysis
 Key questions to answer:
 
@@ -27,7 +29,11 @@ Key questions to answer:
 - How does age impact the approval?
 - Does a higher interest rate get more approval?
 
+## Data preprocessing
+
 ## Data Analysis
+
+## Model Training and Evaluation
 
 ## Results / Findings
 
